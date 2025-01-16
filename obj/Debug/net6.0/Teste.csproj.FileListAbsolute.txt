@@ -1,0 +1,17 @@
+D:\Progamacao\TesteTakst\Teste\Teste\bin\Debug\net6.0\Teste.exe
+D:\Progamacao\TesteTakst\Teste\Teste\bin\Debug\net6.0\Teste.deps.json
+D:\Progamacao\TesteTakst\Teste\Teste\bin\Debug\net6.0\Teste.runtimeconfig.json
+D:\Progamacao\TesteTakst\Teste\Teste\bin\Debug\net6.0\Teste.dll
+D:\Progamacao\TesteTakst\Teste\Teste\bin\Debug\net6.0\Teste.pdb
+D:\Progamacao\TesteTakst\Teste\Teste\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Progamacao\TesteTakst\Teste\Teste\obj\Debug\net6.0\Teste.csproj.AssemblyReference.cache
+D:\Progamacao\TesteTakst\Teste\Teste\obj\Debug\net6.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progamacao\TesteTakst\Teste\Teste\obj\Debug\net6.0\Teste.AssemblyInfoInputs.cache
+D:\Progamacao\TesteTakst\Teste\Teste\obj\Debug\net6.0\Teste.AssemblyInfo.cs
+D:\Progamacao\TesteTakst\Teste\Teste\obj\Debug\net6.0\Teste.csproj.CoreCompileInputs.cache
+D:\Progamacao\TesteTakst\Teste\Teste\obj\Debug\net6.0\Teste.csproj.CopyComplete
+D:\Progamacao\TesteTakst\Teste\Teste\obj\Debug\net6.0\Teste.dll
+D:\Progamacao\TesteTakst\Teste\Teste\obj\Debug\net6.0\refint\Teste.dll
+D:\Progamacao\TesteTakst\Teste\Teste\obj\Debug\net6.0\Teste.pdb
+D:\Progamacao\TesteTakst\Teste\Teste\obj\Debug\net6.0\Teste.genruntimeconfig.cache
+D:\Progamacao\TesteTakst\Teste\Teste\obj\Debug\net6.0\ref\Teste.dll
